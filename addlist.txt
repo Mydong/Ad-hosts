@@ -3,4 +3,4 @@
 ###script-show-info-ad
 vip.ufanw.com###gb > DIV.top_12 > A:first-child
 amazon.cn###adv-float-div
-baiduyunpan.net##.VNj193
+||baiduyunpan.net/t/*$domain=baiduyunpan.net
