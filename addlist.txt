@@ -4,3 +4,11 @@
 vip.ufanw.com###gb > DIV.top_12 > A:first-child
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
+! 家2016年12月27日 19:25:57
+zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
+zhanqi.tv###js-baibian-top-area
+vip.xiehe.info##DIV.page_content:nth-child(3)
+vip.xiehe.info##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
+douyu.com###anchor-info > DIV.focus-lead:last-child
+chushou.tv###currentRoom > DIV.liveBlock:nth-child(2) > DIV.zb_left:first-child > DIV.zb_video:nth-child(2) > IMG.guide_login:nth-child(2)
+vip.ufanw.com##.duilian, .duilian_left
