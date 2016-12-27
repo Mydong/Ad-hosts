@@ -1,7 +1,6 @@
 ! 自己遇到的广告，简单屏蔽规则补充.
 ! 2016-12-27 10:18:46
 ###script-show-info-ad
-vip.ufanw.com###gb > DIV.top_12 > A:first-child
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
 ! 家2016年12月27日 19:25:57
@@ -11,4 +10,7 @@ vip.xiehe.info##DIV.page_content:nth-child(3)
 vip.xiehe.info##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
 douyu.com###anchor-info > DIV.focus-lead:last-child
 chushou.tv###currentRoom > DIV.liveBlock:nth-child(2) > DIV.zb_left:first-child > DIV.zb_video:nth-child(2) > IMG.guide_login:nth-child(2)
+vip.ufanw.com###gb > DIV.top_12 > A:first-child
 vip.ufanw.com##.duilian, .duilian_left
+||5188yy.com/ziyuanduilian/*$domain=91vspz.com,third-party
+91vspz.com###xj1
