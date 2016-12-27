@@ -1,0 +1,5 @@
+! 自己遇到的广告，简单屏蔽规则补充.
+! 2016-12-27 10:18:46
+###script-show-info-ad
+vip.ufanw.com###gb > DIV.top_12 > A:first-child
+amazon.cn###adv-float-div
