@@ -1,5 +1,5 @@
-! 自己遇到的广告，简单屏蔽规则补充.
-! 2016-12-27 10:18:46
+! Title:  自己遇到的广告，简单屏蔽规则补充
+! Last modified: 2016-12-28 17:44:51
 ###script-show-info-ad
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
