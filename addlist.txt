@@ -19,3 +19,7 @@ vip.ufanw.com###gb > DIV.top_12 > A:first-child
 vip.ufanw.com##.duilian, .duilian_left
 ||5188yy.com/ziyuanduilian/*$domain=91vspz.com,third-party
 91vspz.com###xj1
+bu922.com###top
+bu922.com###leftCouplet
+bu922.com###rightCouplet
+bu922.com###leftFloat
