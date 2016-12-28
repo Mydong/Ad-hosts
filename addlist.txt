@@ -5,6 +5,9 @@ amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
 bbs.feng.com###header > H2.logo:first-child > DIV:last-child > A
 ||*/plus/view.php
+login.taobao.com##div.quick-form:has(.qrcode-login)
+login.taobao.com#$##J_StaticForm{display:block!important;}
+
 ! 家2016年12月27日 19:25:57
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
