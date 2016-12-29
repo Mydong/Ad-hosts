@@ -13,10 +13,10 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||miaomuhome.cn^
 ||guomob.com^
 ||70lm.com^
-||dysfz.net###ad2
 ||media8.cn^$third-party
 ||f.ccies.cn^$third-party
 ||ccxuanhang.com^
+dysfz.net###ad2
 
 ! ---家2016年12月27日 19:25:57
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
