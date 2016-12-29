@@ -1,5 +1,5 @@
-#version=201612291504
-#url=https://github.com/vokins/yhosts
+! version=201612291504
+! url=https://github.com/vokins/yhosts
 ||XiaoQiang
 ||acdid.acdsystems.com
 ||activation.acronis.com
