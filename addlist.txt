@@ -9,6 +9,8 @@ login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
 ##DIV.page_content:nth-child(3)
 ##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
+||miaomuhome.cn^
+||guomob.com^
 
 ! 家2016年12月27日 19:25:57
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
