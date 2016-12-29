@@ -12,7 +12,7 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ! ---屏蔽果盟等移动广告
 ||miaomuhome.cn^
 ||guomob.com^
-||70lm.com^$third-party
+||70lm.com^
 
 ! ---家2016年12月27日 19:25:57
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
