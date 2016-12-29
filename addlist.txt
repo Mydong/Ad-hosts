@@ -15,7 +15,7 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||70lm.com^
 ||media8.cn^$third-party
 ||f.ccies.cn^$third-party
-||img.ccxuanhang.com^
+||*.ccxuanhang.com^
 
 ! ---家2016年12月27日 19:25:57
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
