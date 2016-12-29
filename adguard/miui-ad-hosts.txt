@@ -1,3 +1,5 @@
+! Title:  小米手机规则补充来源+vokins/yhost
+! Last modified: 2016年12月29日11:15:04
 ||a.union.mi.com
 ||d.g.mi.com
 ||migc.g.mi.com
