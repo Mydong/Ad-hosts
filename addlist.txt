@@ -13,7 +13,7 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||miaomuhome.cn^
 ||guomob.com^
 ||70lm.com^
-||70lm.com:82/xia/dysfz/
+||dysfz.net###ad2
 ||media8.cn^$third-party
 ||f.ccies.cn^$third-party
 ||ccxuanhang.com^
