@@ -1,6 +1,5 @@
-! version=201612291504
-! url=https://github.com/vokins/yhosts
-||XiaoQiang
+!version=20170103
+!url=https://github.com/vokins/yhosts
 ||acdid.acdsystems.com
 ||activation.acronis.com
 ||activate.adobe.com
@@ -1263,6 +1262,9 @@
 ||g3.letv.com
 ||letv.m.cn.miaozhen.com
 ||58749.admaster.com.cn
+||cdn.zampdsp.com
+||s.zampdsp.com
+||www.zamplus.com
 ||g.wan.mgtv.com
 ||hunantv.m.cn.miaozhen.com
 ||s.mini.kuaibo.com
@@ -1315,14 +1317,14 @@
 ||ins.pplive.com
 ||gas.data.pplive.com
 ||ads.aplus.pptv.com
-||ads.aplusapi.pptv.com
 ||as.aplus.pptv.com
+||ads.aplusapi.pptv.com
 ||de.as.pptv.com
-||jp.as.pptv.com
 ||imagecache.g.pptv.com
 ||img1.g.pptv.com
 ||img2.g.pptv.com
 ||img3.g.pptv.com
+||jp.as.pptv.com
 ||static.g.pptv.com
 ||tj.g.pptv.com
 ||pptv.adx.admaster.com.cn
@@ -1541,6 +1543,9 @@
 ||data.adserve.tomoimg.cn
 ||data.adserve2.tomoimg.cn
 ||eap.enorth.com.cn
+||g.mnw.cn
+||sk.junshio.com
+||www.skwo.net
 ||embed.xinhuanet.com
 ||webd.home.news.cn
 ||www2.xinmin.cn
@@ -2058,6 +2063,8 @@
 ||gen.alicdn.com
 ||strip.alicdn.com
 ||promotion.aliyun.com
+||zjs.cnzz.net
+||z.cnzz.net
 ||js.adm.cnzz.net
 ||tui.cnzz.net
 ||c.cnzz.com
@@ -2236,6 +2243,7 @@
 ||ecmc.bdimg.com
 ||pups.bdimg.com
 ||su.bdimg.com
+||zz.bdstatic.com
 ||cpro.baidustatic.com
 ||cpro2.baidustatic.com
 ||dup.baidustatic.com
@@ -2247,6 +2255,7 @@
 ||bdimg.share.baidu.com
 ||bzclk.baidu.com
 ||cbjs.baidu.com
+||cm.baidu.com
 ||cpu.baidu.com
 ||cm.pos.baidu.com
 ||cpro.baidu.com
@@ -2477,6 +2486,13 @@
 ||ads.vamaker.com
 ||cm.vamaker.com
 ||cdn.vamaker.com
+||app.wumii.com
+||s.jimdo.com
+||static.wumii.cn
+||u.jimdo.com
+||widget.wumii.cn
+||wumii-cc.wumii.cn
+||www.umiwi.com
 ||cc.xtgreat.com
 ||g.x.cn.xtgreat.com
 ||js.xtgreat.com
@@ -3294,12 +3310,24 @@
 ||13pic.jdlhg.com
 ||199.nord-raum.com
 ||wuwho.cn
+||268mob.cn
+||js883.xingyeshangye.com
+||www.268mob.cn
+||alm1.tongyuanhejishu.com
+||dj1229.zuodianshangmao.com
+||pp.268mob.com
+||s1.limeishang.com
+||i.wowips.com
+||j.coyie.com
+||js.wka8.com
+||s1.idaguang.com
+||static-one.ffwap.com
+||static-two.ffwap.com
+||wgz.wgnlz.com
 ||js.jianbaimei.com
 ||h.ju33.com
 ||kaf.hnoka.com
 ||s.ryre.cn
-||s1.idaguang.com
-||s1.limeishang.com
 ||stats.anreson.net
 ||t16119.bafuhotel.com
 ||t6.ljzwlj.com
@@ -3892,9 +3920,6 @@
 ||package01.com
 ||pf.h5game.cn
 ||s5.qhmsg.com
-||static-one.ffwap.com
-||static-two.ffwap.com
-||wgz.wgnlz.com
 ||worldh5.gamehz.cn
 ||www.shouyoutan.com
 ||yjxzs.com
@@ -3964,3 +3989,30 @@
 ||zhidao.baidu.com.mjjdfl.com
 ||www.icdxc.com
 ||www.70lm.com
+||edtp.shushu8.com
+||edtz.shushu8.com
+||ed.shushu8.com
+||h.jxhdzs365.com
+||iospage.linghting.net
+||m.jheva.com
+||w.yunluge.com
+||weixinssp.14684.com
+||c1.yunluge.com
+||c.jheva.com
+||c.xingjuhe.com
+||dm.santaihu.net
+||j.santaihu.com
+||js.santaihu.net
+||s.media.xingjuhe.com
+||dm.lexueyy.com
+||js.lexueyy.com
+!视频网 gitv(爱奇异tv,tvbox) 
+||t7z.cupid.ptqy.gitv.tv
+!myhktv.com
+||s.nxrhs.com
+||in.nxrhs.com
+||in.mxmrt.com
+!@小说网 www.ltxsc.info
+||m.shjk123.net
+||pp.skatehot.net
+||img.pdsywd.com
