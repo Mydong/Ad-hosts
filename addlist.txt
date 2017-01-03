@@ -17,6 +17,7 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||f.ccies.cn^$third-party
 ||ccxuanhang.com^
 dysfz.net###ad2
+m.douban.com##.bottom_ad_download show
 
 ! ---家2016年12月27日 19:25:57
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
