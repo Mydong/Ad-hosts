@@ -52,7 +52,6 @@
 ! 2017年1月12日17:01:46
 ||*.xlmc.sec.miui.com
 ||*.xlmc.sandai.net
-||*.market.xiaomi.com
 ||*.market.mi-img.com
 ||uploadlog.xlmc.sandai.net
 ||etl.xlmc.sandai.net
