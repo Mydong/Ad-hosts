@@ -35,3 +35,5 @@ bu922.com###leftCouplet
 bu922.com###rightCouplet
 bu922.com###leftFloat
 bu922.com###picBottom
+fuwo.com###section > DIV.baojia-bottom-big.dsn:last-child
+##.x_tips
