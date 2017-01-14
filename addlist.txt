@@ -19,7 +19,7 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 dysfz.net###ad2
 m.douban.com##.bottom_ad_download show
 
-! ---家2016年12月27日 19:25:57
+! ---home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
 vip.xiehe.info##DIV.page_content:nth-child(3)
@@ -34,6 +34,7 @@ bu922.com###top
 bu922.com###leftCouplet
 bu922.com###rightCouplet
 bu922.com###leftFloat
-bu922.com###picBottom
 fuwo.com###section > DIV.baojia-bottom-big.dsn:last-child
 ##.x_tips
+pu930.com###floatDiv
+###picBottom > DIV.picBottom:last-child
