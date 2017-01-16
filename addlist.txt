@@ -18,6 +18,7 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||ccxuanhang.com^
 dysfz.net###ad2
 m.douban.com##.bottom_ad_download show
+study.163.com###auto-id-1483515832399
 
 ! ---home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
