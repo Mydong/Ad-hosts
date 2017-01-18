@@ -9,7 +9,7 @@ login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
 ##DIV.page_content:nth-child(3)
 ##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
-! ---屏蔽果盟等移动广告
+! #屏蔽果盟等移动广告
 ||miaomuhome.cn^
 ||guomob.com^
 ||70lm.com^
@@ -20,7 +20,7 @@ dysfz.net###ad2
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
 
-! ---home
+! #home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
 vip.xiehe.info##DIV.page_content:nth-child(3)
