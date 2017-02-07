@@ -17,14 +17,14 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||media8.cn^$third-party
 ||f.ccies.cn^$third-party
 ||ccxuanhang.com^
+||gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/*$domain=m.baidu.com,third-party
+||s.bdstatic.com/common/openjs/*
 dysfz.net###ad2
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
 zhihu.com##.AppHeader
 pianyuan.net###alm_r_b_26223
 pianyuan.net###alm_x_b_19297
-||s.bdstatic.com/common/openjs/*
-
 ! #home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
