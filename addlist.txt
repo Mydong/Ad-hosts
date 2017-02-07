@@ -25,6 +25,11 @@ study.163.com###auto-id-1483515832399
 zhihu.com##.AppHeader
 pianyuan.net###alm_r_b_26223
 pianyuan.net###alm_x_b_19297
+m.baidu.com###bottom
+m.baidu.com###ns-swipe
+m.baidu.com##.bottom-load-before
+m.baidu.com##.inner-item
+m.baidu.com##DIV[style=""]
 ! #home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
