@@ -30,6 +30,7 @@ m.baidu.com###ns-swipe
 m.baidu.com##.bottom-load-before
 m.baidu.com##.inner-item
 m.baidu.com##DIV[style=""]
+play.baidu.com###ad
 ! #home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
