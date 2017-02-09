@@ -19,6 +19,12 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||ccxuanhang.com^
 ||gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/*$domain=m.baidu.com,third-party
 ||s.bdstatic.com/common/openjs/*
+||mobads.baidu.com
+||*.admaster.com.cn
+||wn.pos.baidu.com
+||alldk.com
+||admaster.com.cn^
+||adsame.com
 dysfz.net###ad2
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
