@@ -68,3 +68,4 @@ m.58.com##DIV.invokeApp.footerBar:nth-child(3)
 3g.ganji.com###bannerDown
 diggbt.ws##DIV.wrap-content:first-child > DIV.content:nth-child(2) > DIV.list-area > A:nth-child(*)
 ||yunbofangbt.com^$domain=diggbt.ws,third-party
+||img.alicdn.com/imgextra/i4/*$third-party
