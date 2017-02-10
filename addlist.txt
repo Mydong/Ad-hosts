@@ -5,7 +5,8 @@
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
 bbs.feng.com###header > H2.logo:first-child > DIV:last-child > A
-||*/plus/view.php
+/ads/*
+*/plus/view.php
 login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
 ##DIV.page_content:nth-child(3)
