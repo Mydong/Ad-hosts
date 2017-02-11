@@ -1,4 +1,4 @@
-! version=201702061047
+! version=20170211 942
 ! url=https://github.com/vokins/yhosts
 ||acdid.acdsystems.com
 ||activation.acronis.com
@@ -155,6 +155,7 @@
 ||wm.makeding.com
 ||go.fcwr8.com
 ||www.tigerbrokers.com
+||pro.yyhudong.com
 ||wap.koudaitong.com
 ||tl.771tao.com
 ||tuku.jkys5.com
@@ -274,6 +275,7 @@
 ||www.ok365.com
 ||cpro.9xu.com
 ||dl.9xu.com
+||ggle.lywf.me
 ||cszlks.com
 ||ax.ggfeng.com
 ||cloudcdn.yousee.com
@@ -613,6 +615,7 @@
 ||mlog.search.xiaomi.net
 ||resolver.gslb.mi-idc.com
 ||union.dbba.cn
+||mb.yidianzixun.com
 ||fcanr.tracking.miui.com
 ||hot.browser.miui.com
 ||r.browser.miui.com
@@ -687,6 +690,7 @@
 ||bj.bcebos.com
 ||dd713.bj.bcebos.com
 ||vv84.bj.bcebos.com
+||cdn1.lbesec.com
 ||lottery.kuaiya.cn
 ||api.dewmobile.net
 ||downloada.dewmobile.net
@@ -900,6 +904,7 @@
 ||z67.zzhyyj.com
 ||im.opiuat.com
 ||jk.pingao.com
+||js2254.szfm1.com
 ||ha12.qxxys.com
 ||titi.18tzx.com
 ||mm.ttlowe.com
@@ -935,8 +940,9 @@
 ||a.qindouxs.co
 ||b.qindouxs.co
 ||c.qindouxs.co
-||yiqi.whpxy.com
+||diwang.nzezn.com
 ||download.350.com
+||yiqi.whpxy.com
 ||ss.biquge.la
 ||tt.biquge.la
 ||you.ymfzs.com
@@ -1064,6 +1070,11 @@
 ||s1.9sfang.com
 ||vipjs.csad.cc
 ||www.baidu.com.cyad456.com
+||zz12x.net
+||zhtjdl.com
+||s.bxgmb.com
+||s.xmcmn.com
+||rc.xmcmn.com
 ||s.nmqbg.com
 ||sss.jusha.com
 ||s.ybnrm.com
@@ -1266,7 +1277,6 @@
 ||xd.code.tanwanyx.com
 ||hv.code.tanwanyx.com
 ||s1.keytui.com
-||js1151.zhudiaosz.com
 ||t8.dnvus.com
 ||js1151.yongkang6.com
 ||qj906nc.cdn.media8.cn
@@ -1413,7 +1423,6 @@
 ||img2.hrccb.com
 ||js1597.51weidashi.com
 ||m.yooli.com
-||js4273.zhudiaosz.com
 ||t10.yijia2009.com
 ||js4273.yzh360.com
 ||www.appfh.com
@@ -1603,6 +1612,12 @@
 ||pylfi.flash.hxh999.com
 ||xiazai.cdren.com
 ||js.willads.pw
+||www.sgogogo.com
+||www.ju12345.com
+||www.68aj.com
+||wwws.zxtry.com
+||xlylqx.com
+||kkyy.liliyy.com
 ||scriptwap1.360doc.cn
 ||scriptwap2.360doc.cn
 ||ad1.baike.com
@@ -1676,6 +1691,7 @@
 ||ads.ccstock.cn
 ||creatives.ftchinese.com
 ||dolphin.ftimg.net
+||nexus.ensighten.com
 ||cvda.17173.com
 ||log1.17173.com
 ||vda.17173.com
@@ -2161,6 +2177,7 @@
 ||ad.molitv.cn
 ||log.molitv.cn
 ||log.tv.moliv.cn
+||log1.molitv.cn
 ||track.molitv.cn
 ||stat.moliplayer.com
 ||v.api.amgmedia.cn
@@ -2317,6 +2334,7 @@
 ||tg.qzqywh.com
 ||www.youfumei.com
 ||img.gaore.com
+||dd.70yst.com
 ||www.70lm.com
 ||afesd.zjytyz.com
 ||img.ccxuanhang.com
@@ -2828,6 +2846,9 @@
 ||s1.idaguang.com
 ||s1.limeishang.com
 ||zs0105.zuodianshangmao.com
+||js453.zhudiaosz.com
+||js1151.zhudiaosz.com
+||js4273.zhudiaosz.com
 ||www.iiad.com
 ||c.top267.com
 ||static-two.ffwap.com
@@ -3163,12 +3184,13 @@
 ||web2.51.la
 ||www.51.la
 ||s4.55.la
+||count14.51yes.com
 ||count20.51yes.com
+||count21.51yes.com
 ||count25.51yes.com
 ||count32.51yes.com
 ||count46.51yes.com
 ||count51.51yes.com
-||count14.51yes.com
 ||count7.51yes.com
 ||count9.51yes.com
 ||countt.51yes.com
@@ -3620,6 +3642,11 @@
 ||js883.cnbole.net
 ||js986.cnbole.net
 ||stat1.cnbole.net
+||adimg.cpmchina.co
+||click.cpmchina.co
+||click.onesoft.im
+||r.cpmchina.co
+||www.cpmchina.co
 ||cm.emarbox.com
 ||d.emarbox.com
 ||et.emarbox.com
@@ -3982,7 +4009,6 @@
 ||cf.gdatacube.net
 ||js.hls.ott.cibntv.net
 ||hls01.ott.disp.cibntv.net
-||valf.atm.youku.com
 ||push.tv.api.3g.cp31.ott.cibntv.net
 ||qr.cp31.ott.cibntv.net
 ||r.l.cp31.ott.cibntv.net
@@ -4145,10 +4171,13 @@
 ||api.gamex.mobile.youku.com
 ||c.yes.youku.com
 ||cm.atm.youku.com
+||cmstool.youku.com
 ||count.atm.youku.com
 ||dev-push.m.youku.com
 ||dl.g.youku.com
 ||e.stat.youku.com
+||guanggaoad.youku.com
+||ipm.atm.youku.com
 ||lstat.youku.com
 ||m.atm.youku.com
 ||mb.atm.youku.com
@@ -4173,11 +4202,10 @@
 ||test.sdk.gamex.mobile.youku.com
 ||test.sdk.m.youku.com
 ||urchin.lstat.youku.com
+||valf.atm.youku.com
 ||wan.youku.com
 ||ykrec.youku.com
 ||ykrectab.youku.com
-||guanggaoad.youku.com
-||cmstool.youku.com
 ||cms.laifeng.com
 ||ld.kuaigames.com
 ||rd.kuaigames.com
