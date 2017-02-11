@@ -1,4 +1,4 @@
-! version=20170211 942
+! version=201702112019
 ! url=https://github.com/vokins/yhosts
 ||acdid.acdsystems.com
 ||activation.acronis.com
@@ -1492,6 +1492,7 @@
 ||rc.mgwcn.com
 ||rc.3ygww.com
 ||js.jermr.com
+||www.oaojd.com
 ||ioscdn.ywpod3.com
 ||iospage.lalazhuan.net
 ||cache.xw126.com
@@ -1982,7 +1983,6 @@
 ||brandshow.58.com
 ||jing.58.com
 ||track.58.com
-||tracklog.58.com
 ||58.xgo.com.cn
 ||imp.xgo.com.cn
 ||stat.xgo.com.cn
@@ -2025,6 +2025,9 @@
 ||526dimg.uunice.com
 ||526d.uunice.com
 ||ad.api.moji.com
+||c.rexuebi.com
+||d.rexuebi.com
+||un.52rkl.cn
 ||afp.m1905.com
 ||counter.m1905.com
 ||trace.m1905.cn
