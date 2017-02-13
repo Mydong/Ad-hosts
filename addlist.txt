@@ -58,6 +58,8 @@ fuwo.com###section > DIV.baojia-bottom-big.dsn:last-child
 ##.x_tips
 pu930.com###floatDiv
 ###picBottom > DIV.picBottom:last-child
+##.ads
+##.ads-player
 dajiabao.com###followZone
 detail.tmall.com###hui-plugin-promotions
 youku.com###m7c3a3e_ykbanner
