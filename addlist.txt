@@ -57,6 +57,7 @@ bu922.com###leftFloat
 fuwo.com###section > DIV.baojia-bottom-big.dsn:last-child
 ##.x_tips
 pu930.com###floatDiv
+pc6.com##.Advbox
 ###picBottom > DIV.picBottom:last-child
 ##.ad
 ##.ads
