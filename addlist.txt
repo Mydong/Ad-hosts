@@ -1,6 +1,6 @@
 ! Title:  自己遇到的广告，简单屏蔽规则补充
 ! Expires: 30 days
-! Version: 2017-03-03
+! Version: 2017-03-19
 ###script-show-info-ad
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
