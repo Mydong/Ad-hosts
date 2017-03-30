@@ -42,6 +42,8 @@ lemon95.com###video_ad
 ! #home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
+pixabay.com###content > DIV.media_list > DIV:nth-child(2)
+cnblogs.com##DIV.focus-gg:nth-child(8)
 vip.xiehe.info##DIV.page_content:nth-child(3)
 vip.xiehe.info##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
 douyu.com###anchor-info > DIV.focus-lead:last-child
