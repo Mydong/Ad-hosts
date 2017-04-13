@@ -63,6 +63,7 @@ pc6.com##.Advbox
 ##.ads
 ##.ads-player
 ##.ads-footer
+##.a960
 ###player-advertising
 dajiabao.com###followZone
 detail.tmall.com###hui-plugin-promotions
