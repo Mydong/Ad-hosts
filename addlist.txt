@@ -29,6 +29,7 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||alldk.com
 ||admaster.com.cn^
 ||adsame.com
+||sxdyrq.com^
 dysfz.net###ad2
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
