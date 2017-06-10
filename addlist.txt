@@ -30,7 +30,9 @@ login.taobao.com#$##J_StaticForm{display:block!important;}
 ||admaster.com.cn^
 ||adsame.com
 ||sxdyrq.com^
-||lhafy.com^$third-party
+||lhafy.com^
+||hxyifu.com^
+||al.za5.net^
 dysfz.net###ad2
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
