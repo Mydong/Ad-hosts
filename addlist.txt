@@ -11,6 +11,7 @@ login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
 ##DIV.page_content:nth-child(3)
 ##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
+manhua.fzdm.com###mh > CENTER:nth-child(3)
 ! #屏蔽果盟等移动广告
 ||miaomuhome.cn^
 ||guomob.com^
