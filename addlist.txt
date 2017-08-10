@@ -44,6 +44,7 @@ dysfz.net###ad2
 ||gyeet.com
 ||s.zjhoudao.com
 ||clc.chiuhua.com.cn
+19m5.com##.th_a
 !#豆瓣app
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
