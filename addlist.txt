@@ -35,13 +35,15 @@ manhua.fzdm.com###mh > CENTER:nth-child(3) > A:last-child > IMG
 ||al.za5.net^
 dysfz.net###ad2
 !#神马电影、小狐tv等
+##.tui__header
 ||htjsk.com
 */js/zepto.js
 ||19m5.com/user/ajax/ulog?dir=mobile
 ||nwwap.com
 ||zsxpx.com
 ||gyeet.com
-##.tui__header
+||s.zjhoudao.com
+||clc.chiuhua.com.cn
 !#豆瓣app
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
