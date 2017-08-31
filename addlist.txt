@@ -51,6 +51,7 @@ dysfz.net###ad2
 ||esyzdb.com
 ||xz15801.com
 */main/121/200/*
+*/y.js?pid=*
 !#豆瓣app
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
