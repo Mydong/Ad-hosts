@@ -111,4 +111,5 @@ chinaz.com###loc
 chinaz.com###navAfter
 !小刀娱乐
 xiaodao.la###ShouYe_ShangBu
-
+!QQ浏览器
+||*.sogoucdn.com/app^$third-party
