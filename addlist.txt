@@ -1,6 +1,6 @@
 ! Title:  自己遇到的广告，简单屏蔽规则补充
 ! Expires: 30 days
-! Version: 2017年11月27日
+! Version: 2018年01月16日
 ###script-show-info-ad
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
@@ -49,10 +49,11 @@ dysfz.net###ad2
 ||sdn.penggua.com.cn^$third-party
 ! c.aaccy.com
 */1763/4?*
-! 小狐tv，k8经典
+! 小狐tv，k8经典，巴巴鱼
 ||fic.xyhtys.com/react.js?id=*
 */s.php?id=*$third-party
 */js/English/*.js$domain=k8jdw.com
+*/js/20X4.js$domain=m.babayu.com
 ! 青娱乐
 ##qq
 !#豆瓣app
