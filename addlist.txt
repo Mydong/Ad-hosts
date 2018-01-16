@@ -47,6 +47,7 @@ dysfz.net###ad2
 */js/20-4.js
 */js/pphb.js
 ||sdn.penggua.com.cn^$third-party
+||jianduankm.com^$third-party
 ! c.aaccy.com
 */1763/4?*
 ! 小狐tv，k8经典，巴巴鱼
