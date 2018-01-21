@@ -1,5 +1,4 @@
 ! Title:  自己遇到的广告，简单屏蔽规则补充
-
 ###script-show-info-ad
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
@@ -58,6 +57,7 @@ dysfz.net###ad2
 ##qq
 905dd.com###top
 */js/config.js$domain=905dd.com
+*/js/indextop.js$domain=905dd.com
 !#豆瓣app
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
