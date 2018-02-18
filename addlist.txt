@@ -56,8 +56,8 @@ dysfz.net###ad2
 ! 青娱乐
 ##qq
 905dd.com###top
-*/js/config.js$domain=905dd.com||017ee.com
-*/js/indextop.js$domain=905dd.com||017ee.com
+*/js/config.js
+*/js/indextop.js
 !#豆瓣app
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
