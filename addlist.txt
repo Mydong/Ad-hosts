@@ -58,6 +58,8 @@ dysfz.net###ad2
 905dd.com###top
 */js/config.js
 */js/indextop.js
+! 协和
+/2018/*.js
 !#豆瓣app
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
