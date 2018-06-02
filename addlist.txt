@@ -32,6 +32,7 @@ manhua.fzdm.com###mh > CENTER:nth-child(3) > A:last-child > IMG
 ||hxyifu.com^
 ||al.za5.net^
 ||m.legou361.com
+||sxmdxy.com
 dysfz.net###ad2
 !#神马电影、小狐tv等
 ##.tui__header
