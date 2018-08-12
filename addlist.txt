@@ -61,6 +61,7 @@ dysfz.net###ad2
 905dd.com###top
 */js/config.js
 */js/indextop.js
+*/cssbss_index_foot.js
 ! 协和
 /2018/*.js
 !#豆瓣app
