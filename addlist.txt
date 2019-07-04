@@ -124,4 +124,9 @@ chinaz.com###navAfter
 xiaodao.la###ShouYe_ShangBu
 !--QQ浏览器
 ||*.sogoucdn.com/app^$third-party
+!--动漫
+||*.ikkdm.com/mg/*
+
+
+
 
