@@ -126,6 +126,11 @@ xiaodao.la###ShouYe_ShangBu
 ||*.sogoucdn.com/app^$third-party
 !--动漫
 ||*.ikkdm.com/mg/*
+!--石墨文档
+##.sm-ad-card.pos-pc-desktop-left-stream-two
+shimo.im##.sm-ad-card.pos-pc-desktop-left-stream-one
+shimo.im##.sm-ad-container, .pos-pc-desktop-shortcut, .sm-ad-text-link, .sm-ad-shortcut
+
 
 
 
