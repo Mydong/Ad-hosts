@@ -1,4 +1,7 @@
-!--Title:自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
+!Title:自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
+! 默认淘宝登录框
+login.taobao.com##div.quick-form:has(.qrcode-login)
+login.taobao.com#$##J_StaticForm{display:block!important;}
 ###script-show-info-ad
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
@@ -130,7 +133,7 @@ xiaodao.la###ShouYe_ShangBu
 ##.sm-ad-card.pos-pc-desktop-left-stream-two
 shimo.im##.sm-ad-card.pos-pc-desktop-left-stream-one
 shimo.im##.sm-ad-container, .pos-pc-desktop-shortcut, .sm-ad-text-link, .sm-ad-shortcut
-
+shimo.im##.sm-ad-bottom-card
 
 
 
