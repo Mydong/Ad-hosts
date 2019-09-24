@@ -1,4 +1,5 @@
-! Title:自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
+! Title:  自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
+! Version: 20190913000
 !--默认淘宝登录框
 login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
