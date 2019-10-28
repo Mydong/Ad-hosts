@@ -1,0 +1,6 @@
+! Title:  不兼容ios的规则，pc上可以使用
+! Expires: 30 days
+! Version: 2017年06月27日
+! 默认淘宝登录框
+login.taobao.com##div.quick-form:has(.qrcode-login)
+login.taobao.com#$##J_StaticForm{display:block!important;}

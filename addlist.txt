@@ -1,31 +1,140 @@
-! Title:  自己遇到的广告，简单屏蔽规则补充
-! Last modified: 2016-12-29 09:06:57
+! Title:  自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
+! Version: 20190913000
+!- 默认淘宝登录框
+login.taobao.com##div.quick-form:has(.qrcode-login)
+login.taobao.com#$##J_StaticForm{display:block!important;}
 ###script-show-info-ad
 amazon.cn###adv-float-div
 ||baiduyunpan.net/t/*$domain=baiduyunpan.net
 bbs.feng.com###header > H2.logo:first-child > DIV:last-child > A
-||*/plus/view.php
-login.taobao.com##div.quick-form:has(.qrcode-login)
-login.taobao.com#$##J_StaticForm{display:block!important;}
+/ads/*
+*/plus/view.php
 ##DIV.page_content:nth-child(3)
 ##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
-! ---屏蔽果盟等移动广告
+manhua.fzdm.com##DIV:nth-child(9)
+manhua.fzdm.com###mh > CENTER:nth-child(3) > A:last-child > IMG
+!- 屏蔽果盟等移动广告
 ||miaomuhome.cn^
 ||guomob.com^
-
-! ---家2016年12月27日 19:25:57
+||70lm.com^
+||6huu.com^
+||00601918.com^
+||gouzhibao.cn^
+||media8.cn^$third-party
+||f.ccies.cn^$third-party
+||ccxuanhang.com^
+||gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/*$domain=m.baidu.com,third-party
+||s.bdstatic.com/common/openjs/*
+||mobads.baidu.com
+||*.admaster.com.cn
+||wn.pos.baidu.com
+||alldk.com
+||admaster.com.cn^
+||adsame.com
+||sxdyrq.com^
+||lhafy.com^
+||hxyifu.com^
+||al.za5.net^
+||m.legou361.com
+||sxmdxy.com
+dysfz.net###ad2
+!- 神马电影、小狐tv等
+##.tui__header
+*/js/zepto.js
+19m5.com##.th_a
+*/1763/4.html
+*/main/121/200/*
+*/y.js?pid=*
+*/cdn/bottom.js
+*/1763/4?v=*
+*/js/dibu.js
+*/js/20-4.js
+*/js/pphb.js
+||sdn.penggua.com.cn^$third-party
+||jianduankm.com^$third-party
+! c.aaccy.com
+*/1763/4?*
+||fic.xyhtys.com/react.js?id=*
+*/s.php?id=*$third-party
+*/d.asp
+*/js/English/*.js$domain=k8jdw.com
+*/js/20X4.js$domain=m.babayu.com
+##qq
+905dd.com###top
+*/js/config.js
+*/js/indextop.js
+*/cssbss_index_foot.js
+/2018/*.js
+!- 豆瓣app
+m.douban.com##.bottom_ad_download show
+study.163.com###auto-id-1483515832399
+zhihu.com##.AppHeader
+pianyuan.net###alm_r_b_26223
+pianyuan.net###alm_x_b_19297
+m.baidu.com###bottom
+m.baidu.com###ns-swipe
+m.baidu.com##.bottom-load-before
+m.baidu.com##.inner-item
+m.baidu.com##DIV[style=""]
+play.baidu.com###ad
+lemon95.com###video_ad
+!- home
 zhanqi.tv###js-baibian-top-area > A.bg.js-baibian-top-btn:nth-child(2)
 zhanqi.tv###js-baibian-top-area
-vip.xiehe.info##DIV.page_content:nth-child(3)
-vip.xiehe.info##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
+pixabay.com###content > DIV.media_list > DIV:nth-child(2)
+cnblogs.com##DIV.focus-gg:nth-child(8)
 douyu.com###anchor-info > DIV.focus-lead:last-child
 chushou.tv###currentRoom > DIV.liveBlock:nth-child(2) > DIV.zb_left:first-child > DIV.zb_video:nth-child(2) > IMG.guide_login:nth-child(2)
 vip.ufanw.com###gb > DIV.top_12 > A:first-child
 vip.ufanw.com##.duilian, .duilian_left
 ||5188yy.com/ziyuanduilian/*$domain=91vspz.com,third-party
+||ifkjx.com/img/buxin.jpg$domain=ifkjx.com
 91vspz.com###xj1
 bu922.com###top
 bu922.com###leftCouplet
 bu922.com###rightCouplet
 bu922.com###leftFloat
-bu922.com###picBottom
+fuwo.com###section > DIV.baojia-bottom-big.dsn:last-child
+##.x_tips
+pu930.com###floatDiv
+pc6.com##.Advbox
+###picBottom > DIV.picBottom:last-child
+##.ad
+##.ads
+##.ads-player
+##.ads-footer
+##.a960
+###player-advertising
+dajiabao.com###followZone
+detail.tmall.com###hui-plugin-promotions
+youku.com###m7c3a3e_ykbanner
+m.bilibili.com##DIV.wrapper:nth-child(3) > DIV:last-child
+m.bilibili.com###b_app_link
+m.58.com##DIV.invokeApp.footerBar:nth-child(3)
+3g.ganji.com##DIV.SFApush:nth-child(50)
+3g.ganji.com###bannerDown
+diggbt.ws##DIV.wrap-content:first-child > DIV.content:nth-child(2) > DIV.list-area > A:nth-child(*)
+||yunbofangbt.com^$domain=diggbt.ws,third-party
+!- 站长之家
+chinaz.com###topTxt
+chinaz.com##.SsiteLogo.fr
+chinaz.com###contentImg
+chinaz.com##.ToolsImgWrap.clearfix
+chinaz.com###toolsIntro
+chinaz.com##.fr.topTsRight.ml10
+chinaz.com###loc
+chinaz.com###navAfter
+!- 小刀娱乐
+xiaodao.la###ShouYe_ShangBu
+!- QQ浏览器
+||*.sogoucdn.com/app^$third-party
+!- 动漫
+||*.ikkdm.com/mg/*
+!- 石墨文档
+##.sm-ad-card.pos-pc-desktop-left-stream-two
+shimo.im##.sm-ad-card.pos-pc-desktop-left-stream-one
+shimo.im##.sm-ad-container, .pos-pc-desktop-shortcut, .sm-ad-text-link, .sm-ad-shortcut
+shimo.im##.sm-ad-bottom-card
+
+
+
