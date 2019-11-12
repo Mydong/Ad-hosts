@@ -4,7 +4,7 @@
 
 ### 说明:
 - miui-ad-hosts.txt文件中中的规则已经在vokins-yhosts.txt含有，只是单独列出。
-- y-hosts文件更新地址： https://raw.githubusercontent.com/vokins/yhosts/master/hosts 
+- vokins-yhosts文件更新地址： https://raw.githubusercontent.com/vokins/yhosts/master/hosts 
 
 #### Thinking:
 - 偷得浮生半日闲!
