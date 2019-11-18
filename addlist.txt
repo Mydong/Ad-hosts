@@ -1,5 +1,5 @@
 ! Title:  自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
-! Version: 2019-11-15
+! Version: 2019-11-18
 !- 默认淘宝登录框
 login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
@@ -9,8 +9,6 @@ amazon.cn###adv-float-div
 bbs.feng.com###header > H2.logo:first-child > DIV:last-child > A
 /ads/*
 */plus/view.php
-##DIV.page_content:nth-child(3)
-##DIV.page_content:nth-child(4) > DIV.box250.fr:nth-child(2) > DIV:first-child
 manhua.fzdm.com##DIV:nth-child(9)
 manhua.fzdm.com###mh > CENTER:nth-child(3) > A:last-child > IMG
 !- 屏蔽果盟等移动广告
@@ -136,6 +134,11 @@ shimo.im##.sm-ad-card.pos-pc-desktop-left-stream-one
 shimo.im##.sm-ad-container, .pos-pc-desktop-shortcut, .sm-ad-text-link, .sm-ad-shortcut
 shimo.im##.sm-ad-bottom-card
 shimo.im##.sc-kuVjl-1.lnVjMk
+shimo.im##.sc-PWUlb-2.iwtrdk
+!- 蓝凑云
+lanzous.com##DIV.d:nth-child(3) > DIV:last-child
+lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(4) > A:last-child
+
 
 
 
