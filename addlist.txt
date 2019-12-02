@@ -1,5 +1,5 @@
 ! Title:  自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
-! Version: 2019-11-18
+! Version: 2019-11-23
 !- 默认淘宝登录框
 login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
@@ -122,6 +122,8 @@ chinaz.com###toolsIntro
 chinaz.com##.fr.topTsRight.ml10
 chinaz.com###loc
 chinaz.com###navAfter
+ping.chinaz.com##.fotatxtd.auto
+ping.chinaz.com##.fr.topTsCenter
 !- 小刀娱乐
 xiaodao.la###ShouYe_ShangBu
 !- QQ浏览器
@@ -138,6 +140,7 @@ shimo.im##.sc-PWUlb-2.iwtrdk
 !- 蓝凑云
 lanzous.com##DIV.d:nth-child(3) > DIV:last-child
 lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(4) > A:last-child
+<<<<<<< HEAD
 ! --------------------------------------------------------------------------- !
 ! ---------------------------------播放器：------------------------------------ !
 ! --------------------------------------------------------------------------- !
@@ -164,6 +167,18 @@ lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(4) > A:last-child
 ! 常见H网播放器广告
 |http://*/##ads-player,.ads
 ##.ads-player
+=======
+! -字幕网
+##.ps_1
+/ps/psCreat.js
+##.videoAd
+##.pasuAD
+! -未分类
+||jy.ggweb.net^$third-party
+###photo-header-title-content-text-dallor
+##.photo--content-title-bottomx--foot
+##.close_discor
+>>>>>>> 52d722c7098d2713fb8709d559263bab9f49e5e1
 
 
 
