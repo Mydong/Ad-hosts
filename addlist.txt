@@ -138,6 +138,32 @@ shimo.im##.sc-PWUlb-2.iwtrdk
 !- 蓝凑云
 lanzous.com##DIV.d:nth-child(3) > DIV:last-child
 lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(4) > A:last-child
+! --------------------------------------------------------------------------- !
+! ---------------------------------播放器：------------------------------------ !
+! --------------------------------------------------------------------------- !
+! Homepage: https://github.com/ChuHuaiJin/Adguard/
+
+! vidlox.tv以下两条规则任意一条都可以过滤播放器弹窗
+||vidlox.tv$replace=/var .*?popup/fuckAD/
+!||vidlox.tv$replace=/setTimeout.*?popup//
+
+! datoporn.com以下四条规则任意一条都可以过滤播放器弹窗
+||datoporn.com$$div[onclick="c()"]
+!||datoporn.com$$script[data-cfasync="false"]
+!||datoporn.com$$script[tag-content="hilltopads"]
+!||datoporn.com$replace=/<div id="a".*?<\/div>//
+
+! videowood网站播放器弹窗
+||videowood.*/assets/js/popup$script
+||videowood.*/assets/js/player.js
+
+! 去除各种ckplayer播放器里面的滚动广告
+*/player/player.js$replace=/advmarquee: escape.*?\)\,/advmarquee: escape\(''\)\,/
+*/html/ckplayer/ckplayer.js$replace=/advmarquee: escape.*?\)\,/advmarquee: escape\(''\)\,/
+
+! 常见H网播放器广告
+|http://*/##ads-player,.ads
+##.ads-player
 
 
 
