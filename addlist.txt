@@ -137,9 +137,6 @@ shimo.im##.sm-ad-container, .pos-pc-desktop-shortcut, .sm-ad-text-link, .sm-ad-s
 shimo.im##.sm-ad-bottom-card
 shimo.im##.sc-kuVjl-1.lnVjMk
 shimo.im##.sc-PWUlb-2.iwtrdk
-! - 蓝凑云
-lanzous.com##DIV.d:nth-child(3) > DIV:last-child
-lanzous.com##DIV.d:nth-child(3) > DIV:nth-child(4) > A:last-child
 ! - 字幕网
 ##.ps_1
 /ps/psCreat.js
