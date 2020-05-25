@@ -1,5 +1,5 @@
 ! Title:  自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
-! Version: 2020-03-26
+! Version: 2020-05-25 16:36:37
 !- 默认淘宝登录框
 login.taobao.com##div.quick-form:has(.qrcode-login)
 login.taobao.com#$##J_StaticForm{display:block!important;}
@@ -66,7 +66,6 @@ dysfz.net###ad2
 !- 豆瓣app
 m.douban.com##.bottom_ad_download show
 study.163.com###auto-id-1483515832399
-zhihu.com##.AppHeader
 pianyuan.net###alm_r_b_26223
 pianyuan.net###alm_x_b_19297
 m.baidu.com###bottom
@@ -97,11 +96,6 @@ fuwo.com###section > DIV.baojia-bottom-big.dsn:last-child
 pu930.com###floatDiv
 pc6.com##.Advbox
 ###picBottom > DIV.picBottom:last-child
-##.ad
-##.ads
-##.ads-player
-##.ads-footer
-##.a960
 ###player-advertising
 dajiabao.com###followZone
 detail.tmall.com###hui-plugin-promotions
@@ -149,6 +143,13 @@ shimo.im##.sc-PWUlb-2.iwtrdk
 ##.close_discor
 ! - 网盘广告
 disk.yandex.com##.direct__iframe
+! - 软件下载站广告
+mutou.run##.asst, .asst-list-header
+xiaoqbk.com###image_container > div.wow.pulse.animated:first-child
+zzzvc.com###MlPlist1
+##div.doit-header-all.container:nth-child(36)
+
+
 
 ! --------------------------------------------------------------------------- !
 ! ---------------------------------播放器：------------------------------------ !
