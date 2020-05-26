@@ -1,10 +1,5 @@
-[Adblock Plus 2.0]
-! Checksum: vXO2skD37egAcrKzRVhe1A
 ! Version:20200525163637
 ! Title: 自己遇到的广告，简单屏蔽规则补充，微信公众号：必优君
-! ChinaList and EasyList combination subscription
-! Last modified: 03 Feb 2014 03:50 UTC
-! Expires: 2 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/Mydong/Ad-hosts/master/addlist.txt
 !
 !- 默认淘宝登录框
